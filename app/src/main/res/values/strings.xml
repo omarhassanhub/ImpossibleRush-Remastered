@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Impossible Rush</string>
+    
+    <string name="quit_app_label">Do you want to quit the game?</string>
+    <string name="yes_label">Yes</string>
+    <string name="no_label">No</string>
+    
+    <!-- Home -->
+    <string name="home_new_game_btn_label">New Game</string>
+    <string name="home_score_btn_label">Top Score</string>
+    <!-- Game -->
+    <string name="game_current_score_label">Current Score:</string>
+    <!-- Score -->
+    <string name="score_label">Best score:</string>
+    
+    
+</resources>
